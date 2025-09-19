@@ -26,5 +26,5 @@ In this analysis, I used the points spread and total as my two KPIs I will be an
 
 ## Insights Deep-Dive
 ### Points Spread Analysis
-![pts spread by season](season_pts_spread.png)
+![pts spread by season](https://github.com/jaylenroope-afk/Betting_Value_Analysis/blob/main/Visualizations/season_pts_spread.png)
 
