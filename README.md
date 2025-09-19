@@ -39,9 +39,9 @@ For total points predictions (the sum of points scored by both teams), the algor
 ![pts_spread_by_team](https://github.com/jaylenroope-afk/Betting_Value_Analysis/blob/main/Visualizations/avg_pts_spread_by_team_subplot.png)
 
 *Subplots of teams where the spreads were either overestimated or underestimated*
-- For the teams where the spread was overestimated, the algorithm was worst at predicting the spread for the Denver Nuggets (+1.42 pts), Sacramento Kings (+1.39 pts), and Los Angeles Lakers (+1.38 pts).
-- For the teams where the spread was underestimated, the algorithm was worst at predicting the spread for the OKC Thunder (-0.77 pts), Memphis Grizzlies (-0.62 pts), Portland Trailblazers (-0.62 pts).
-- The algorithm best predicted Golden State Warriors games with the points spread only being off by -0.000969 which is basically perfect.
+- For teams where the spread was overestimated, the algorithm performed worst with the Denver Nuggets (+1.42 pts), Sacramento Kings (+1.39 pts), and Los Angeles Lakers (+1.38 pts).
+- For teams where the spread was underestimated, the algorithm performed worst with the OKC Thunder (-0.77 pts), Memphis Grizzlies (-0.62 pts), and Portland Trail Blazers (-0.62 pts).
+- The algorithm was most accurate for the Golden State Warriors, with the spread off by just -0.000969 points—essentially perfect.
 
 ![total pts dff by season](https://github.com/jaylenroope-afk/Betting_Value_Analysis/blob/main/Visualizations/season_total_pts_diff.png)
 
