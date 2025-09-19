@@ -18,8 +18,8 @@ In this analysis, I used the points spread and total as my two KPIs I will be an
 
 ## Key Performance Indicators (KPIs)
 ### Points Spread Deviation 
-- Measures how accurate the algorithm predicted the spread or difference in points between the favored team and the opposing team from 2020 (19-20) to the 2025 (24-25) NBA season
-- Analysis on seasonal trends as well as specific teams 
+- Measures how accurate the algorithm predicted the spread or difference in points between the favored team and the opposing team from 2020 (19-20) to the 2025 (24-25) NBA season.
+- Analysis on seasonal trends as well as specific teams.
 
 ### Total Points Deviation 
 - Measures how accurate the algorithm predicted the total points in a game which is the sum of the points from each team.
