@@ -25,4 +25,6 @@ In this analysis, I used the points spread and total as my two KPIs I will be an
 - Measures how accurate the algorithm predicted the total points in a game which is the sum of the points from each team.
 
 ## Insights Deep-Dive
-### 
+### Points Spread Analysis
+![pts spread by season](season_pts_spread.png)
+
