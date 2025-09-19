@@ -14,7 +14,11 @@ To ensure profitability, a sportsbook must make accurate predictions while offer
 - /[visualizations](https://github.com/jaylenroope-afk/Betting_Value_Analysis/tree/main/Visualizations) - Contains matplotlib visualizations 
 
 ## Analysis Summary
-In this analysis, I used the points spread and total as my two KPIs I will be analyzing for a sportsbook company. Taking data from the past 6 NBA seasons (2020-2025), the sportsbook improved its algorithm in predicting the spread where the average points off spread was 0.82 in the 2020 NBA season and 0.14 in 2025. However, the algorithm tends to overestimate the actual spread. In this range, the 2021 season was the only season where the algorithm on average underestimated the spread. When looking at specific teams specifically for the spread, the algorithm was worst at predicting the spread for the Denver Nuggets with an average points off spread of 1.42 (overestimate) and OKC Thunder of -0.77 (underestimate). It was about perfect in predicting the spread for Golden State Warriors games (-0.000969). For the total points prediction, which is the sum of the points of the two teams in a game, the algorithm consistently underestimated the point total except in 2021 where it overestimated by an average of 0.01 points. In 2020, the algorithm was off by -1.09 points on average which was the worst year in this range. 
+In this analysis, I focused on points spread and total points as the two key performance indicators (KPIs) for a sportsbook company. Using data from the past six NBA seasons (2020–2025), the sportsbook’s algorithm improved its spread predictions over time, with the average points off the spread decreasing from 0.82 in 2020 to 0.14 in 2025. However, the algorithm generally overestimated the actual spread, with the exception of the 2021 season, where it slightly underestimated on average.
+
+At the team level, the algorithm was least accurate for the Denver Nuggets (average overestimate of 1.42 points) and the OKC Thunder (average underestimate of -0.77 points), while it was almost perfect for the Golden State Warriors (-0.000969 points).
+
+For total points predictions (the sum of points scored by both teams), the algorithm consistently underestimated totals, except in 2021, when it slightly overestimated by 0.01 points. The worst performance was in 2020, with an average underestimate of -1.09 points.
 
 ## Key Performance Indicators (KPIs)
 ### Points Spread Deviation 
