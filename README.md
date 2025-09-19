@@ -10,7 +10,7 @@ To ensure profitability, a sportsbook must make accurate predictions while offer
 ## Project Structure
 - /README.md - What you are reading right now. This provides the description of the project, tools used, code, visualizations, and insights gained from the analysis.
 - /data - Contains the raw data gathered
-- /code - Contains the code and comments for the analysis
+- 1_code.ipynb - Contains the Jupyter Notebook containing code used for the analysis
 - /visualizations - Contains matplotlib visualizations 
 
 ## Analysis Summary
