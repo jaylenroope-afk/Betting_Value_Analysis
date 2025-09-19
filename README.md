@@ -34,14 +34,14 @@ In this analysis, I used the points spread and total as my two KPIs I will be an
 
 ![pts_spread_by_team](https://github.com/jaylenroope-afk/Betting_Value_Analysis/blob/main/Visualizations/avg_pts_spread_by_team_subplot.png)
 
-*subplots of teams where the spreads were either overestimated or underestimated*
+*Subplots of teams where the spreads were either overestimated or underestimated*
 - For the teams where the spread was overestimated, the algorithm was worst at predicting the spread for the Denver Nuggets (+1.42 pts), Sacramento Kings (+1.39 pts), and Los Angeles Lakers (+1.38 pts).
 - For the teams where the spread was underestimated, the algorithm was worst at predicting the spread for the OKC Thunder (-0.77 pts), Memphis Grizzlies (-0.62 pts), Portland Trailblazers (-0.62 pts).
 - The algorithm best predicted Golden State Warriors games with the points spread only being off by -0.000969 which is basically perfect.
 
 ![total pts dff by season](https://github.com/jaylenroope-afk/Betting_Value_Analysis/blob/main/Visualizations/season_total_pts_diff.png)
 
-*barchart of the total points deviation by season*
+*Barchart of the total points deviation by season*
 - Since 2020, the algorithm has consistenly underestimated the total points scored in a game, except in 2021 where it was about perfect in predicting the total points (+0.0012).
 - There are no clear signs that indicate the algorithm has improved in predicting the point total, although 2020 had the worst total point prediction with an average difference of -1.09 while in 2025 it was only -0.75.
 
